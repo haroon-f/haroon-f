@@ -5,7 +5,7 @@
 
 <h3> Skills </h3>
 
-**Lanuages Used**
+**Lanuages**
 
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=FFFFFF)
