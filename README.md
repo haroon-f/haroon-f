@@ -17,7 +17,7 @@
 
 **Development Tools**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 
 [![Haroon's Stats](https://github-readme-stats.vercel.app/api?username=haroon-f&show_icons=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849&count_private=true)](https://github.com/haroon-f)
 
