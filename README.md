@@ -9,7 +9,7 @@
 
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=FFFFFF)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=00599C)
 
 **DevOps**
 
