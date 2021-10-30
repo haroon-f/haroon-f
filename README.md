@@ -1,6 +1,6 @@
 <h3> About me </h3>
 
-- I'm cool.
+- imcool
 - I like programming.
 
 <h3> Skills </h3>
