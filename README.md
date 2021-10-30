@@ -1,6 +1,6 @@
 <h3> About me </h3>
 
-- I'm Australian.
+- I'm cool.
 - I like programming.
 
 <h3> Skills </h3>
