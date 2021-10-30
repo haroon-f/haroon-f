@@ -7,7 +7,7 @@
 
 **Lanuages Used**
 
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=1E9E25)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
 
